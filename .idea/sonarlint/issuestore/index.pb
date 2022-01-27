@@ -8,3 +8,5 @@ k
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+s
+Csrc/test/java/me/doyoung/programmer/problem220126/SolutionTest.java,a/7/a7c39351e1b73d4e448e8aa91c431caec0754020
